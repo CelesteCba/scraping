@@ -22,3 +22,5 @@ df = pd.DataFrame({'Ranking Peliculas mas taquilleras': peliculas}, index=list(r
 print(df)
 
 
+
+
